@@ -1,9 +1,9 @@
-# Introduction/Background
+## Introduction/Background
 
-# Problem Definition
+## Problem Definition
 
-# Methods
+## Methods
 
-# Potential Results and Discussion
+## Potential Results and Discussion
 
-# References
+## References
